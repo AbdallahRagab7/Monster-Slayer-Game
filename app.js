@@ -3,6 +3,6 @@ const app = Vue.createApp({
     return {
 
     }
-    }
-})
+    } ,
+});
 app.mount('#game');
