@@ -1,7 +1,7 @@
 # Table of Contents
 1. [About](#about)
 2. [Game Link](#game-link)
-3. [ScreenShots](#usage)
+3. [ScreenShots](#screen-shots)
 
 ## About <a name = "about"></a>
 - Monster Slayer Game is a simple game using Vue.js, HTML and CSS.
@@ -16,4 +16,12 @@
 
 ### Game Link <a name = "game-link"></a>
 https://abdallahragab7.github.io/Monster-Slayer-Game/
+
+
+ ### ScreenShots from the game: <a name = "screen-shots"></a>
+<h3 align='left'>Main Screen</h3>
+<img src="./ScreenShots/Monster1.png" alt="alternative-text">
+<hr>
+<h3 align='left'>When the player lose</h3>
+<img src="./ScreenShots/Monster2.png" alt="alternative-text">
 
