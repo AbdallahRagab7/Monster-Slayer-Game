@@ -1,5 +1,5 @@
 # Table of Contents
-1. [About](#introduction)
+1. [About](#about)
 2. [Game Link](#game-link)
 3. [ScreenShots](#usage)
 
